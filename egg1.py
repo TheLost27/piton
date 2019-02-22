@@ -5,7 +5,7 @@ try:
         eleman2 = int(eleman)
         liste2.append(eleman2)
 except:
-    print("Hata Oldu")
+    print("Hata Oldu!!!")
 finally:
 	print("çalışıyor")
 print(liste)
